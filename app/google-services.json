@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758122126692",
+    "project_id": "lukabolo-68640",
+    "storage_bucket": "lukabolo-68640.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758122126692:android:3c1191175501aa14f32e71",
+        "android_client_info": {
+          "package_name": "com.example.lukabolo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758122126692-mkb9nu7ci45qe59gfm33tvpnji2h952i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWGrkOnweemx4FV98Nm_Vvt_tu8t9AsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758122126692-mkb9nu7ci45qe59gfm33tvpnji2h952i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
